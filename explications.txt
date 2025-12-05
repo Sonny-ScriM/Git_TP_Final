@@ -1,0 +1,5 @@
+git log --pretty=format:"%h %ad %s" --date=short -n 5 : Affiche la liste des derniers commits avec leur hash, date et message, ce qui permet d'avoir une vue d'ensemble rapide de l'historique.
+
+git show <commit> --stat : Affiche les détails d'un commit précis (auteur, date, message) et les fichiers modifiés avec le nombre de lignes ajoutées/supprimées.
+
+git diff <commit1> <commit2> -- fichier : Compare deux versions d'un fichier entre deux commits pour voir exactement quelles lignes ont été ajoutées ou retirées.

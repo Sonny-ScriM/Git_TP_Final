@@ -1,0 +1,15 @@
+1) Qu'ai-je appris pendant ce TP ?
+J'ai appris à lire et manipuler l'historique Git (logs, show, diff), modifier un commit existant avec
+`git commit --amend`, revenir à un état antérieur avec `git reset`, annuler proprement un commit avec
+`git revert`, et à sauvegarder temporairement des modifications avec `git stash`.
+
+2) Quelle commande Git as-tu trouvé la plus utile et pourquoi ?
+J'ai trouvé `git log` combinée avec `git show` la plus utile car elles permettent de localiser rapidement
+un commit précis et d'en voir le contenu détaillé (auteur, message, modifications).
+
+3) Quelle partie t'a posé le plus de difficulté ?
+La résolution d'un conflit lors d'un `git revert` m'a demandé de bien comprendre comment nettoyer le fichier
+concerné puis de continuer le revert; c'est la partie qui demande le plus d'attention.
+
+Nom étudiant: Sonny FERERIRA
+Professeur: Tom PAYA

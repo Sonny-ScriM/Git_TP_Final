@@ -7,9 +7,11 @@ J'ai appris à lire et manipuler l'historique Git (logs, show, diff), modifier u
 J'ai trouvé `git log` combinée avec `git show` la plus utile car elles permettent de localiser rapidement
 un commit précis et d'en voir le contenu détaillé (auteur, message, modifications).
 
+ps: git push --force origin main est ma préférée car elle a reussi a resoudre mon probleme :)
+
+
 3) Quelle partie t'a posé le plus de difficulté ?
 La résolution d'un conflit lors d'un `git revert` m'a demandé de bien comprendre comment nettoyer le fichier
 concerné puis de continuer le revert; c'est la partie qui demande le plus d'attention.
 
-Nom étudiant: Sonny FERERIRA
-Professeur: Tom PAYA
+Sonny FERERIRA
